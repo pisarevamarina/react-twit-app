@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5bb9939.chunk.css",
-    "main.js": "/static/js/main.2b6fef6b.chunk.js",
-    "main.js.map": "/static/js/main.2b6fef6b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3fbf303e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3fbf303e.js.map",
-    "static/js/2.af9cac80.chunk.js": "/static/js/2.af9cac80.chunk.js",
-    "static/js/2.af9cac80.chunk.js.map": "/static/js/2.af9cac80.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ad126687c39a142d68b53e9ed8602b7c.js": "/precache-manifest.ad126687c39a142d68b53e9ed8602b7c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d5bb9939.chunk.css.map": "/static/css/main.d5bb9939.chunk.css.map",
-    "static/js/2.af9cac80.chunk.js.LICENSE.txt": "/static/js/2.af9cac80.chunk.js.LICENSE.txt"
+    "main.css": "/react-twit-app/static/css/main.7689019f.chunk.css",
+    "main.js": "/react-twit-app/static/js/main.d075d5b0.chunk.js",
+    "main.js.map": "/react-twit-app/static/js/main.d075d5b0.chunk.js.map",
+    "runtime-main.js": "/react-twit-app/static/js/runtime-main.dfa102de.js",
+    "runtime-main.js.map": "/react-twit-app/static/js/runtime-main.dfa102de.js.map",
+    "static/js/2.fa976148.chunk.js": "/react-twit-app/static/js/2.fa976148.chunk.js",
+    "static/js/2.fa976148.chunk.js.map": "/react-twit-app/static/js/2.fa976148.chunk.js.map",
+    "index.html": "/react-twit-app/index.html",
+    "precache-manifest.7a93ce9c7bae880b66f5b04327f8b4e4.js": "/react-twit-app/precache-manifest.7a93ce9c7bae880b66f5b04327f8b4e4.js",
+    "service-worker.js": "/react-twit-app/service-worker.js",
+    "static/css/main.7689019f.chunk.css.map": "/react-twit-app/static/css/main.7689019f.chunk.css.map",
+    "static/js/2.fa976148.chunk.js.LICENSE.txt": "/react-twit-app/static/js/2.fa976148.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fbf303e.js",
-    "static/js/2.af9cac80.chunk.js",
-    "static/css/main.d5bb9939.chunk.css",
-    "static/js/main.2b6fef6b.chunk.js"
+    "static/js/runtime-main.dfa102de.js",
+    "static/js/2.fa976148.chunk.js",
+    "static/css/main.7689019f.chunk.css",
+    "static/js/main.d075d5b0.chunk.js"
   ]
 }
